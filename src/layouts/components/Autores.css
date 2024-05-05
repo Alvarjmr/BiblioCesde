@@ -1,0 +1,46 @@
+.a1 {
+  position: absolute;
+  left: 342px;
+  top: 150px;
+}
+.a2 {
+  position: absolute;
+  left: 659px;
+  top: 150px;
+}
+.a3 {
+  position: absolute;
+  left: 980px;
+  top: 150px;
+}
+.a4 {
+    position: absolute;
+    left: 342px;
+    top: 680px;
+  }
+
+  .a5 {
+    position: absolute;
+    left: 659px;
+    top: 680px;
+  }
+  .a6 {
+    position: absolute;
+    left: 980px;
+    top: 680px;
+  }
+  .a7 {
+    position: absolute;
+    left: 342px;
+    top: 1250px;
+  }
+  .a8 {
+    position: absolute;
+    left: 659px;
+    top: 1250px;
+  }
+  .a9 {
+    position: absolute;
+    left: 980px;
+    top: 1250px;
+  }
